@@ -1,7 +1,6 @@
 import React, { useState, useRef , useEffect } from "react";
 import html2canvas from "html2canvas";
-import { useDrag } from 'react-use-gesture'
-import { useSpring ,animated } from 'react-spring'
+
 import Slider from "react-slick";
 
 function Canvas() {

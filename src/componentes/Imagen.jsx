@@ -1,7 +1,6 @@
 import { GeneralContext } from "../contexts/GeneralContext";
 import React, { useState, useEffect, useContext } from "react";
-import { useDrag } from "react-use-gesture";
-import { useSpring, animated } from "react-spring";
+
 import Font, { Text } from 'react-font'
 import { motion , useMotionValue  } from "framer-motion"
 import noImage from "../assets/imagenes/noImage.jpg"
