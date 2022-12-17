@@ -1,4 +1,4 @@
-Git al proyecto en git pages:
+Link al proyecto en git pages:
 https://diegodelias.github.io/GeneradorMemesCodoACodoReact2022/
 
 
