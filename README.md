@@ -6,6 +6,12 @@ Tener en cuenta al probar que los textos se posicionan haciendo drag and drop
 Link a video Demo del ejercicio
 https://www.youtube.com/watch?v=4ijecpN8H98
 
+Para correr localmente:
+-Clonar el projecto 
+- npm install
+-En caso de tirar porblema con algunas de dependecias al hacer el el npm install escrbir este comando  set legacy-peer-deps true  y depués hacer
+npm install
+
 Algunas cosas que quedaron mejorar:
 - Carga aleatoria de las fotos en el slider
 - Implementar funcionalidad para agregar más textos
