@@ -1,7 +1,7 @@
 Link al proyecto en github pages:
 https://diegodelias.github.io/GeneradorMemesCodoACodoReact2022/
 
-Tener en cuenta: Los textos se posicionan haciendo drag and drop
+Tener en cuenta al probar que los textos se posicionan haciendo drag and drop
 
 Link a video Demo el ejericio
 https://www.youtube.com/watch?v=4ijecpN8H98
