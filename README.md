@@ -12,9 +12,6 @@ Algunas cosas que quedaron mejorar:
 - Mejorar posicionamiento por defecto y limites de los textos al hacer drag and drop
 - entre otras cosas..
 
-Link video guia deploy proyecto React Vite en github pages:
-https://www.youtube.com/watch?v=e3SV6tYztz0&t=906s
-
 
 ![](src/assets/fotosRepo/foto1.jpg)
 
@@ -28,3 +25,8 @@ https://www.youtube.com/watch?v=e3SV6tYztz0&t=906s
 
 
 ![](src/assets/fotosRepo/foto4.jpg)
+
+
+
+Link video guia deploy proyecto React Vite en github pages:
+https://www.youtube.com/watch?v=e3SV6tYztz0&t=906s
