@@ -1,6 +1,8 @@
 Link al proyecto en git pages:
 https://diegodelias.github.io/GeneradorMemesCodoACodoReact2022/
 
+Tener en cuenta: Los textos se posicionan haciendo drag and drop
+
 
 
 ![](src/assets/fotosRepo/foto1.jpg)
