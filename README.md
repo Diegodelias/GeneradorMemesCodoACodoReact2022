@@ -3,7 +3,7 @@ https://diegodelias.github.io/GeneradorMemesCodoACodoReact2022/
 
 Tener en cuenta al probar que los textos se posicionan haciendo drag and drop
 
-Link a video Demo el ejericio
+Link a video Demo del ejercicio
 https://www.youtube.com/watch?v=4ijecpN8H98
 
 Algunas cosas que quedaron mejorar:
