@@ -16,6 +16,7 @@ Algunas cosas que quedaron mejorar:
 - Carga aleatoria de las fotos en el slider
 - Implementar funcionalidad para agregar más textos
 - Mejorar posicionamiento por defecto y limites de los textos al hacer drag and drop
+- Control de tamañp de fuente individual para cada input
 - entre otras cosas..
 
 
